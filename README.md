@@ -1,3 +1,10 @@
-### Hi there 👋
+### Hello World 👋
 
-Hello world
+- I am a Senior Front End Developer, but as I like to imagine myself - a 🧙 (wizard)
+- I am really familiar with React, Vue and Angular
+  - I have worked professionally with all of them, but I prefer React as it aligns with my views of how everything should work
+  - I know how these type of frameworks are built, because I've built a couple myself ([Radi](https://radi.js.org), [Boldom](https://boldom.js.org), [Synks](https://github.com/Marcisbee/synks)) mainly as a learning experience
+  - So picking up a new one like Svelte is a 🍰 (piece of cake)
+- I started out as a back end developer writing a PHP, but I did not like it
+- Soon after focused on design and front end stuff (started out when jQuery was the 💣 (bomb))
+- Reach me [@marcisbee](https://twitter.com/marcisbee) on Twitter
