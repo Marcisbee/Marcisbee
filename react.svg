@@ -4,7 +4,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         svg {
-          fill: currentColor;
+          fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+          svg {
+            fill: white;
+          }
         }
       </style>
       <svg role="img" viewBox="0 0 24 24"
