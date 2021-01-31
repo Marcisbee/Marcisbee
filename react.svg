@@ -1,10 +1,15 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400"
+<svg fill="none" viewBox="0 0 24 24" width="14" height="14"
   xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         svg {
-          fill: currentColor;
+          fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+          svg {
+            fill: white;
+          }
         }
       </style>
       <svg role="img" viewBox="0 0 24 24"
