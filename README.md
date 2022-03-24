@@ -10,4 +10,4 @@
 
 ---
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcisbee&theme=great-gatsby&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=FFFFFF00#gh-dark-mode-only)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcisbee&theme=gruvbox_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=FFFFFF00&dates=A5A5A5)
