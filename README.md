@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Marcisbee&theme=great-gatsby&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=FFFFFF00#gh-dark-mode-only" />
+</p>
+
+---
+
 ### Hello World 👋
 
 - I am a Senior Front End Developer, but as I like to imagine myself - a 🧙 (wizard)
